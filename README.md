@@ -1,6 +1,6 @@
 ### Github_actions
 #### Tools used:
-##### Injellij IDEA
+##### Intellij IDEA
 ##### Java
 ##### Maven (pom)
 ##### Github (github actions)
